@@ -9,7 +9,7 @@ Note : There is no persitant storage or API call to save in database.
 cd electrode-demo-app
 npm install
 clap dev
-open http://localhost:3000 in web browser
+open 'http://localhost:3000/demo3' in web browser
 
 ```
 
